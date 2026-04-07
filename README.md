@@ -4,7 +4,7 @@
 
 <h1 align="center"> 
   Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mZGV0HkpYK3y8/giphy.gif" width="60px" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/bmo_dancing.gif" width="60px" />
 </h1>
 
 <img align="right" hspace="30"
