@@ -4,7 +4,7 @@
 
 <h1 align="center"> 
   Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> 
-  <img src="https://raw.githubusercontent.com/Loay-77/Loay-77/main/bmo.gif" width="70px" align="center" />
+  <img src="https://raw.githubusercontent.com/AvinashKaveti/AvinashKaveti/master/gifs/bmo.gif" width="70px" />
 </h1>
 
 <img align="right" hspace="30"
@@ -58,15 +58,4 @@
 <table width="100%" align="center">
 <tr>
 <td>
-    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Loay-77?cardType=level&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=Loay-77&theme=radical" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
+    <img width="400em" src="
