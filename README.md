@@ -2,12 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=Loay-77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> <img src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true" width="60px" /> </h1>
+<h1 align="center"> 
+  Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> 
+  <img src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true" width="60px" />
+</h1>
 
 <img align="right" hspace="30"
      src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true"
      alt="Loay Profile Image"
-     width="250" style="border-radius: 50%;"/>
+     width="250" />
 
 - 🌱 **Currently:** Deep diving into **Machine Learning** and mastering the art of data.
 - ⚡ About Me: **A passionate AI Engineering student with a logical mind and a creative soul.**
@@ -24,7 +27,7 @@
 
 <br>
 
-<details><summary>🏆 Notable Projects & Learning Journey:</summary>
+<details><summary>🚀 Notable Projects & Learning Journey:</summary>
   <br>
   <table width="100%">
     <tr>
@@ -37,7 +40,7 @@
     </tr>
     <tr>
       <td><strong>Hardware & IoT</strong></td>
-      <td>Projects like "Drowsy Driver Detection" and "Smart Garage System".</td>
+      <td>Working on innovative engineering solutions like "Drowsy Driver Detection".</td>
     </tr>
   </table>
 </details>
