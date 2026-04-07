@@ -4,12 +4,12 @@
 
 <h1 align="center"> 
   Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> 
-  <img src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true" width="60px" />
+  <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" width="100px" />
 </h1>
 
 <img align="right" hspace="30"
-     src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true"
-     alt="Loay Profile Image"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Loay Coding GIF"
      width="250" />
 
 - 🌱 **Currently:** Deep diving into **Machine Learning** and mastering the art of data.
