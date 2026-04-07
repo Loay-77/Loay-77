@@ -4,7 +4,7 @@
 
 <h1 align="center"> 
   Hi there, I'm <a href="https://www.linkedin.com/in/loay-mohamed-417453371/">Loay Mohamed</a> 
-  <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" width="100px" />
+  <img src="https://raw.githubusercontent.com/Loay-77/Loay-77/main/bmo.gif" width="70px" align="center" />
 </h1>
 
 <img align="right" hspace="30"
